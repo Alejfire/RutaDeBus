@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleja\\source\\repos\\RutaDeBus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E41B6308-DCCB-45DC-B891-113B5B0C9BC3}|RutaDeBus\\RutaDeBus.csproj|c:\\users\\aleja\\source\\repos\\rutadebus\\rutadebus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41B6308-DCCB-45DC-B891-113B5B0C9BC3}|RutaDeBus\\RutaDeBus.csproj|solutionrelative:rutadebus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\source\\repos\\RutaDeBus\\RutaDeBus\\Program.cs",
+              "RelativeDocumentMoniker": "RutaDeBus\\Program.cs",
+              "ToolTip": "C:\\Users\\aleja\\source\\repos\\RutaDeBus\\RutaDeBus\\Program.cs",
+              "RelativeToolTip": "RutaDeBus\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:20:00.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

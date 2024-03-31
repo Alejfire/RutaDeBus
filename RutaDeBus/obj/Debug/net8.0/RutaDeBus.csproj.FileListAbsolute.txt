@@ -1,0 +1,14 @@
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\obj\Debug\net8.0\RutaDeBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\obj\Debug\net8.0\RutaDeBus.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\obj\Debug\net8.0\RutaDeBus.AssemblyInfo.cs
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\obj\Debug\net8.0\RutaDeBus.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\bin\Debug\net8.0\RutaDeBus.exe
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\bin\Debug\net8.0\RutaDeBus.deps.json
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\bin\Debug\net8.0\RutaDeBus.runtimeconfig.json
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\bin\Debug\net8.0\RutaDeBus.dll
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\bin\Debug\net8.0\RutaDeBus.pdb
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\obj\Debug\net8.0\RutaDeBus.dll
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\obj\Debug\net8.0\refint\RutaDeBus.dll
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\obj\Debug\net8.0\RutaDeBus.pdb
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\obj\Debug\net8.0\RutaDeBus.genruntimeconfig.cache
+C:\Users\aleja\source\repos\RutaDeBus\RutaDeBus\obj\Debug\net8.0\ref\RutaDeBus.dll
